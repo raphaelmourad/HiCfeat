@@ -1,0 +1,16 @@
+# Import
+import("GenomicRanges")
+import("Matrix")
+import("glmnet")
+import("rtracklayer")
+import("methods")
+
+importFrom("IRanges", "IRanges", "IRangesList", "breakInChunks","Views","RleViewsList","viewMeans")
+importFrom("GenomeInfoDb", "seqlengths", "seqlevels", "seqlevels<-")
+importFrom("rtracklayer","import")
+importFrom("stats", "as.formula", "binomial", "cor", "glm", "logLik","pchisq")
+importFrom("utils", "read.table")
+
+
+# Export
+exportPattern("^[[:alpha:]]+")
