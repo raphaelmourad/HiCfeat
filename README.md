@@ -1,6 +1,6 @@
 # HiCfeat: Computational Identification of Genomic Features That Influence 3D Chromatin Domain Formation
 
-#![alt text](https://github.com/morphos30/PhyloCTCFLooping/blob/master/approach.png)
+#![alt text](https://github.com/morphos30/HiCfeat/blob/master/hicfeat.png)
 
 **Overview**
 
