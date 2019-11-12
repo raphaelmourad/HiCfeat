@@ -4,4 +4,4 @@
 
 **Overview**
 
-We propose a novel approach to study the 3D genome evolution in vertebrates using the genomic sequence only, e.g. without the need for Hi-C data. The approach is simple and relies on comparing the distances between convergent and divergent CTCF motifs (ratio 3DR).
+We propose a multiple logistic regression model to assess the influences of genomic features such as DNA-binding proteins and functional elements on topological domain borders. 
